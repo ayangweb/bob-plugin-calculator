@@ -1,6 +1,6 @@
 {
   "identifier": "com.bob-plugin-calculator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "category": "translate",
   "name": "计算器",
   "summary": "简易计算器",

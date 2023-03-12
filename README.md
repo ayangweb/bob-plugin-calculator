@@ -4,7 +4,7 @@
 
 > 该功能主要为 bob 用户开发，bob 是一款 macOS 上的翻译软件，官网地址：[bob](https://bobtranslate.com/)
 >
-> 插件下载地址：[bob-plugin-calculator-v0.0.0.bobplugin](https://github.com/bilibili-ayang/bob-plugin-calculator/releases/download/v0.0.0/bob-plugin-calculator.bobplugin)
+> 插件下载地址：[bob-plugin-calculator-v0.0.1.bobplugin](https://github.com/bilibili-ayang/bob-plugin-calculator/releases/download/v0.0.1/bob-plugin-calculator.bobplugin)
 
 ### bob 插件大合集:
 

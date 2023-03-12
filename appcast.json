@@ -1,4 +1,12 @@
 {
   "identifier": "com.bob-plugin-calculator",
-  "versions": []
+  "versions": [
+    {
+      "version": "0.0.1",
+      "desc": "https://github.com/bilibili-ayang/bob-plugin-calculator/blob/master/CHANGELOG.md",
+      "sha256": "d29beb12e7c4b0bb0f2c67b7c301cdb2d7125754e804d22c35cb71b9810d754c",
+      "url": "https://github.com/bilibili-ayang/bob-plugin-calculator/releases/download/v0.0.1/bob-plugin-calculator.bobplugin",
+      "minBobVersion": "0.5.0"
+    }
+  ]
 }
