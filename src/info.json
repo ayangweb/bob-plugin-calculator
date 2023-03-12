@@ -1,0 +1,12 @@
+{
+  "identifier": "com.bob-plugin-calculator",
+  "version": "0.0.0",
+  "category": "translate",
+  "name": "计算器",
+  "summary": "简易计算器",
+  "icon": "icon.png",
+  "author": "ayang",
+  "homepage": "https://github.com/bilibili-ayang/bob-plugin-calculator",
+  "appcast": "https://raw.githubusercontent.com/bilibili-ayang/bob-plugin-calculator/master/appcast.json",
+  "minBobVersion": "0.5.0"
+}
